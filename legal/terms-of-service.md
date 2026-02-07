@@ -1,19 +1,19 @@
 # Terms of Service for Trinix AI
 
-Effective Date: April 20, 2025
+Effective Date: February 06, 2025
 
-By using Trinix AI ("the Bot"), you agree to these Terms of Service ("Terms"). Please read them carefully.
+By using Trinix ("the Discord Bot"), you agree to these Terms of Service ("Terms"). Please read them carefully.
 
 ---
 
 ## 1. Acceptance of Terms
-By inviting or using the Bot on your Discord server, you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you may not use the Bot.
+By inviting or using the Discord Bot on your Discord server, you agree to comply with and be bound by these Terms. If you do not agree to these Terms, you may not use the Bot.
 
 ---
 
 ## 2. Description of Services
 
-Trinix AI is a Discord bot offering the following services:
+Trinix by Trinix AI is a Discord bot offering the following services:
 
 - **AI‑Powered Moderation**  
   • Real-time message scanning through Ollama and LM Studio integrations.  
@@ -58,20 +58,20 @@ By using the Bot, you agree to:
 ## 4. Data Collection and Privacy
 Trinix AI collects limited data necessary to operate its features. For details on data collection, use, and your rights, please review our [Privacy Policy](privacy-policy.md).
 
-Server administrators are responsible for informing their users that Trinix AI is active and may process limited data on their server.
+Server administrators are responsible for informing their users that Trinix ("the Discord Bot") is active and may process limited data on their server.
 
 ---
 
 ## 5. Limitation of Liability
-Trinix AI is provided on an "as-is" and "as-available" basis. To the fullest extent permitted by law:
+Trinix ("the Discord Bot") is provided on an "as-is" and "as-available" basis. To the fullest extent permitted by law:
 
 - We are not liable for any damages, direct or indirect, resulting from your use of the Bot.  
-- We make no guarantees regarding the accuracy, reliability, or availability of Trinix AI or its features.
+- We make no guarantees regarding the accuracy, reliability, or availability of Trinix or its features.
 
 ---
 
 ## 6. Termination
-We reserve the right to terminate or suspend access to Trinix AI for any user or server at our sole discretion, including in the event of violations of these Terms.
+We reserve the right to terminate or suspend access to Trinix ("the Discord Bot") for any user or server at our sole discretion, including in the event of violations of these Terms.
 
 ---
 
