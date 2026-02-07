@@ -1,6 +1,6 @@
 # Trinix AI Legal Documentation
 
-Welcome to the Trinix AI legal repository. This repo houses all of the official legal agreements for the Trinix AI bot, including our Terms of Service and Privacy Policy.
+Welcome to the Trinix AI legal repository. This repo houses all of the official legal agreements for the Trinix Discord bot, including our Terms of Service and Privacy Policy.
 
 ## 📄 Documents
 - **[License (EULA)](legal/LICENSE.txt)**
@@ -14,7 +14,7 @@ Welcome to the Trinix AI legal repository. This repo houses all of the official 
 
 ## 📍 Discord Discovery
 
-Discover and add Trinix AI through the official Discord Discovery page or other social links:
+Discover and add Trinix ("the Discord Bot") by Trinix AI through the official Discord Discovery page or other social links:
 
 [🔗 View Trinix AI on Discord Discovery](https://discord.com/discovery/applications/1332261384490323971)
 
