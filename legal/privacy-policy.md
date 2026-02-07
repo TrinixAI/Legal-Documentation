@@ -1,6 +1,6 @@
 # Privacy Policy for Trinix AI
 
-Effective Date: April 20, 2025
+Effective Date: February 06, 2026
 
 This Privacy Policy explains how Trinix AI ("the Bot") collects, uses, and protects information provided by its users. By using Trinix AI, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -90,6 +90,6 @@ Premium features are optional and subject to separate terms. We reserve the righ
 
 ## 13. Contact Information
 For privacy-related requests, questions, or concerns, please contact us at:  
-📧 Email: **support@Trinix AI.gg**
+📧 Email: **support@TrinixAI.gg**
 
 ---
