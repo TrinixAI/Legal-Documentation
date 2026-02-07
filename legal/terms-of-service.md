@@ -1,6 +1,6 @@
 # Terms of Service for Trinix AI
 
-Effective Date: February 06, 2025
+Effective Date: February 06, 2026
 
 By using Trinix ("the Discord Bot"), you agree to these Terms of Service ("Terms"). Please read them carefully.
 
