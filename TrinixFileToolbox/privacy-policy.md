@@ -140,4 +140,4 @@ For privacy-related questions or requests, contact:
 
 ---
 
-© 2025 – 2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.
+© 2025-2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.

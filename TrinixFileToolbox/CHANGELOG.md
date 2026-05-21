@@ -8,7 +8,7 @@ an entry here describing the change.
 
 ## 2026-05-20
 
-### Added — Version 1.0
+### Added - Version 1.0
 - Initial drafts of all Trinix File Toolbox legal documents:
   - `README.md` (index)
   - `EULA.md`
@@ -30,4 +30,4 @@ an entry here describing the change.
 
 ---
 
-© 2025 – 2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.
+© 2025-2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.

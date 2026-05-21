@@ -1,4 +1,4 @@
-# Trinix File Toolbox — Legal Documentation
+# Trinix File Toolbox - Legal Documentation
 
 This folder contains the legal agreements and policies that govern use of
 **Trinix File Toolbox**, a desktop product of **Srdjan Lopez LLC dba Trinix AI**.
@@ -34,4 +34,4 @@ so Microsoft Store and trinix.gg can link to stable, reviewable URLs.
 
 ---
 
-© 2025 – 2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.
+© 2025-2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.

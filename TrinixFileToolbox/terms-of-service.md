@@ -124,4 +124,4 @@ For questions about these Terms, contact <support@trinix.gg>.
 
 ---
 
-© 2025 – 2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.
+© 2025-2026 Srdjan Lopez LLC dba Trinix AI. All Rights Reserved.
