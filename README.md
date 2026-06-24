@@ -1,15 +1,31 @@
 # Trinix AI Legal Documentation
 
-Welcome to the Trinix AI legal repository. This repo houses all of the official legal agreements for the Trinix Discord bot, including our Terms of Service and Privacy Policy.
+Welcome to the Trinix AI legal repository. This repo houses official legal agreements and policy documents for Trinix AI products, including the Trinix Discord bot and Integrity Scanner.
 
 ## 📄 Documents
+
+### Trinix Discord Bot
+
 - **[License (EULA)](legal/LICENSE.txt)**
   The Trinix AI Proprietary License Agreement. All Rights Reserved.  
 - **[Terms of Service](legal/terms-of-service.md)**
   Rules and guidelines for lawful and acceptable use of Trinix AI.  
 - **[Privacy Policy](legal/privacy-policy.md)** 
   How Trinix AI collects, uses, stores, and protects user data.
-  
+
+### Integrity Scanner
+
+- **[Integrity Scanner Terms of Service](legal/integrity-scanner/terms-of-service.md)**
+  Product-specific terms for the Integrity Scanner Windows desktop app.
+- **[Integrity Scanner Privacy Policy](legal/integrity-scanner/privacy-policy.md)**
+  Local-first privacy policy for Integrity Scanner.
+- **[Integrity Scanner End User License Agreement](legal/integrity-scanner/eula.md)**
+  Product-specific license terms for Integrity Scanner.
+- **[Integrity Scanner Data Handling and Safety Disclosure](legal/integrity-scanner/data-handling-and-safety-disclosure.md)**
+  Plain-language safety and data handling boundaries for users, operators, and reviewers.
+- **[Integrity Scanner Support and Data Requests](legal/integrity-scanner/support-and-data-requests.md)**
+  Support, privacy request, and local file handling guidance.
+
 ---
 
 ## 📍 Discord Discovery
