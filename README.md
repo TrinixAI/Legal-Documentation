@@ -15,15 +15,15 @@ Welcome to the Trinix AI legal repository. This repo houses official legal agree
 
 ### Integrity Scanner
 
-- **[Integrity Scanner Terms of Service](legal/integrity-scanner/terms-of-service.md)**
+- **[Integrity Scanner Terms of Service](IntegrityScanner/terms-of-service.md)**
   Product-specific terms for the Integrity Scanner Windows desktop app.
-- **[Integrity Scanner Privacy Policy](legal/integrity-scanner/privacy-policy.md)**
+- **[Integrity Scanner Privacy Policy](IntegrityScanner/privacy-policy.md)**
   Local-first privacy policy for Integrity Scanner.
-- **[Integrity Scanner End User License Agreement](legal/integrity-scanner/eula.md)**
+- **[Integrity Scanner End User License Agreement](IntegrityScanner/eula.md)**
   Product-specific license terms for Integrity Scanner.
-- **[Integrity Scanner Data Handling and Safety Disclosure](legal/integrity-scanner/data-handling-and-safety-disclosure.md)**
+- **[Integrity Scanner Data Handling and Safety Disclosure](IntegrityScanner/data-handling-and-safety-disclosure.md)**
   Plain-language safety and data handling boundaries for users, operators, and reviewers.
-- **[Integrity Scanner Support and Data Requests](legal/integrity-scanner/support-and-data-requests.md)**
+- **[Integrity Scanner Support and Data Requests](IntegrityScanner/support-and-data-requests.md)**
   Support, privacy request, and local file handling guidance.
 
 ---
