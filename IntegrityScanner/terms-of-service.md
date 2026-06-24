@@ -10,15 +10,21 @@ By installing, accessing, or using Integrity Scanner, you agree to these Terms. 
 
 Integrity Scanner is a local Windows desktop utility for integrity and posture review workflows. It helps users and operators create, sign, export, and verify local report packets.
 
-Integrity Scanner is designed for operator review and private evidence handling. It is not a certification service, anti-cheat enforcement system, antivirus product, malware removal tool, remote monitoring tool, or cloud scanning service.
+Integrity Scanner is designed for operator review and private evidence handling. It is not a certification service, enforcement system, antivirus product, malware removal tool, remote monitoring tool, or cloud scanning service.
 
-## 2. No certification or enforcement
+## 2. License relationship
+
+Your use of Integrity Scanner is also governed by the [Integrity Scanner End User License Agreement](eula.md).
+
+If these Terms and the End User License Agreement address the same subject differently, the more specific product license restriction controls for software licensing, copying, redistribution, reverse engineering, decompilation, resale, hosting, and derivative works.
+
+## 3. No certification or enforcement
 
 Integrity Scanner does not certify that a device is clean. It does not prove that all cheating methods, tampering methods, malware, or policy issues are absent.
 
 A report, verification result, warning, policy status, or challenge result should be treated as review context. It should not be treated as the sole basis for a ban, employment action, account action, tournament penalty, or other punitive decision without independent human review.
 
-## 3. Local and read-only safety model
+## 4. Local and read-only safety model
 
 The App is designed to operate as a local, read-only review utility.
 
@@ -36,7 +42,7 @@ The App does not intentionally:
 - Confirm malware.
 - Guarantee clean-device status.
 
-## 4. User responsibilities
+## 5. User responsibilities
 
 You agree to:
 
@@ -48,7 +54,7 @@ You agree to:
 - Review report contents before sharing them with any third party.
 - Make your own backups before relying on any report, export, or review packet.
 
-## 5. Administrator and operator responsibilities
+## 6. Administrator and operator responsibilities
 
 Administrators, tournament operators, community staff, and other reviewers are responsible for their own policies and decisions.
 
@@ -63,7 +69,7 @@ Operators should:
 - Store report bundles securely.
 - Avoid public disclosure of user report contents unless legally required or expressly authorized.
 
-## 6. Reports, signatures, and trusted keys
+## 7. Reports, signatures, and trusted keys
 
 Integrity Scanner may generate local report files, signature sidecars, public key records, trusted key registries, verifier output, and review packets.
 
@@ -71,61 +77,70 @@ Users control whether these files remain local or are shared. Trinix AI is not r
 
 Cryptographic verification means a report and signature match according to the verifier workflow. It does not mean Trinix AI has independently reviewed the device, approved the user, or certified the system.
 
-## 7. Microsoft Store distribution
+## 8. Microsoft Store distribution
 
 If the App is obtained through the Microsoft Store, Microsoft may manage installation, updates, ratings, refunds, Store account features, Store policy checks, and Store-related support flows under Microsoft's own terms.
 
 These Terms do not replace any Microsoft terms that apply to Microsoft Store access or purchases.
 
-## 8. Privacy
+## 9. Privacy
 
 Our handling of information is described in the [Integrity Scanner Privacy Policy](privacy-policy.md).
 
 By using the App, you acknowledge that local reports may contain system, path, metadata, security posture, or report information. Review reports before sharing them.
 
-## 9. Intellectual property
+## 10. Intellectual property
 
-Integrity Scanner, including its software, names, logos, documentation, workflows, report formats, user interface, and related materials, is owned by Srdjan Lopez LLC dba Trinix AI or its licensors.
+Integrity Scanner, including its software, source code, object code, compiled binaries, package files, names, logos, documentation, workflows, report formats, signing logic, verification logic, user interface, and related materials, is owned by Srdjan Lopez LLC dba Trinix AI or its licensors.
 
 Except for rights expressly granted by these Terms or the End User License Agreement, no rights are transferred to you.
 
-## 10. Prohibited conduct
+Public availability through the Microsoft Store, a website, a support channel, a repository, a screenshot, a report file, or documentation does not create an open-source license, public-domain release, ownership transfer, or commercial reuse right.
+
+## 11. Prohibited conduct
 
 You may not:
 
-- Copy, redistribute, resell, lease, sublicense, or host the App except as allowed by Trinix AI in writing.
-- Reverse engineer, decompile, disassemble, tamper with, or bypass App protections except where applicable law expressly permits.
-- Remove copyright, trademark, or proprietary notices.
+- Copy, redistribute, resell, lease, lend, sublicense, commercially host, or white-label the App except as allowed by Trinix AI in writing.
+- Modify, adapt, translate, repackage, or create derivative works based on the App.
+- Reverse engineer, decompile, disassemble, or attempt to derive source code, object structure, internal algorithms, signing logic, verifier logic, report logic, rule logic, or package internals from the App.
+- Remove copyright, trademark, attribution, product identity, or proprietary notices.
 - Misrepresent App output as a guarantee, certification, or final enforcement decision.
+- Use the App, documentation, report formats, user interface, workflows, or outputs to build, market, or support a competing product or service.
+- Publish, distribute, sell, upload, or otherwise provide altered, unofficial, repackaged, unpackaged, or misleading versions of the App.
 - Use the App to collect unrelated personal data.
 - Use the App to violate privacy, security, platform, league, tournament, or workplace rules.
 - Submit malicious, misleading, altered, or unrelated files as report evidence.
 
-## 11. Updates and changes
+## 12. Updates and changes
 
 We may update, modify, suspend, or discontinue the App or any feature at any time. We may also update these Terms from time to time.
 
 Continued use of the App after updated Terms are posted means you accept the updated Terms.
 
-## 12. Disclaimer of warranties
+## 13. Disclaimer of warranties
 
 The App is provided "as is" and "as available" to the fullest extent permitted by law.
 
 We do not warrant that the App will be uninterrupted, error-free, compatible with every system, free of false positives, free of false negatives, or suitable for any specific enforcement, tournament, workplace, legal, or compliance decision.
 
-## 13. Limitation of liability
+## 14. Limitation of liability
 
 To the fullest extent permitted by law, Trinix AI and its owners, officers, contractors, affiliates, and licensors will not be liable for indirect, incidental, special, consequential, exemplary, punitive, or lost-profit damages arising from or related to the App, reports, verification results, support, third-party decisions, or these Terms.
 
-## 14. Termination
+## 15. Termination
 
 We may suspend or terminate access to the App, support, or related services if we believe these Terms have been violated or if continued access creates legal, security, or operational risk.
 
-## 15. Governing law
+## 16. Enforcement and remedies
+
+Trinix AI reserves all rights and remedies available under contract law, copyright law, trademark law, trade secret law, platform policies, store policies, and other applicable laws. These remedies may include takedown requests, marketplace reports, account reports, license termination, access termination, damages, and injunctive relief.
+
+## 17. Governing law
 
 These Terms are governed by the laws of the State of Washington, without regard to conflict of law rules, unless applicable law requires otherwise.
 
-## 16. Contact
+## 18. Contact
 
 For questions about these Terms, contact:
 
